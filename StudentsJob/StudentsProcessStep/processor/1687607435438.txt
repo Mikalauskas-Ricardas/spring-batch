@@ -1,0 +1,1 @@
+RECORD: Student(id=10, firstName=EMMA, lastName=WHITE, email=EMMA.WHITE@EXAMPLE.COM), EXCEPTION: java.lang.NullPointerException, DATE: Sat Jun 24 13:50:35 CEST 2023
